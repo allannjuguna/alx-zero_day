@@ -7,12 +7,15 @@
 	<br/>
 </p>
 <br/>
+
 ## Techstack
 - Bash
 <br/>
+
 ## About
 I created this project as a fun side project that ...
 <br/>
+
 ## Contribution
 Contributions are always welcome!
 
